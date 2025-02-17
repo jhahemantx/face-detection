@@ -1,16 +1,12 @@
 # Flask Face Detection App
 
-This is a Flask-based application that captures frames from a webcam, performs face detection using OpenCV, and streams the processed frames back to the client.
+This is a Flask-based application that captures frames from a webcam, performs face detection using OpenCV.
 
 ## Preview 
 ![Screenshot 2025-02-17 191942](https://github.com/user-attachments/assets/2f379966-d7dd-4455-a401-736ee4ae08ec)
 
 
 
-## Features
-- Captures video frames from a webcam.
-- Detects faces in real-time using OpenCV.
-- Streams the processed video with detected faces.
 
 ## Prerequisites
 Ensure you have the following installed:
